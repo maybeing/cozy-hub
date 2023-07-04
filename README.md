@@ -1,9 +1,10 @@
 # cozy-hub
 O Cozy Hub é um projeto em JavaScript que transforma sua página inicial em um ambiente produtivo e aconchegante.
 
-**Link de Acesso:**
+**Link de Acesso:** https://maybeing.github.io/cozy-hub/
 
-![127 0 0 1_5500_ExercADcios_ExerciciosPT220partes20dia_minhaC3%A3o_index html](https://github.com/maybeing/cozy-hub/assets/42306757/79769b79-842d-4bdc-bf99-0ec8307c7530)
+![screenshotCozyHub png](https://github.com/maybeing/cozy-hub/assets/42306757/023b2f47-40d8-471f-8f6f-d86191e597a8)
+
 
 
 ## Em Breve
